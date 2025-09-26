@@ -1,4 +1,4 @@
-# portfolio-simple-website
+#  My portfolio website
 This is a clean and minimal personal portfolio website built with HTML5 and CSS3.
 The project includes two pages:
 
